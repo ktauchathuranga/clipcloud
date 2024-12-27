@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
       id: "generateQR",
-      title: "Generate QR Code",
+      title: "Share this text as QR code",
       contexts: ["selection"]
     });
   });
