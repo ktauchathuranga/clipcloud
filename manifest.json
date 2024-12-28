@@ -1,12 +1,10 @@
 {
     "manifest_version": 3,
     "name": "ShareText",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Quickly share text from your browser to your phone using QR codes. Just select, generate, and scan!",
     "permissions": [
       "contextMenus",
-      "storage",
-      "scripting",
       "activeTab"
     ],
     "background": {
