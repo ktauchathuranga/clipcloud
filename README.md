@@ -1,6 +1,6 @@
 # ShareText Chrome Extension
 
-ShareText is a Chrome extension that generates a QR code from the text you copy to your clipboard.
+ShareText is a Chrome extension that generates a QR code from the text you select.
 
 ## Features
 
